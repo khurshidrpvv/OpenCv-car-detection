@@ -18,7 +18,7 @@ Dataset used for training can be downloaded from [Vehivle Image database](http:/
 
 To train harcascade we need three different files,that we have to create:
 
-  **1. Positive Description file** 
+    **1. Positive Description file** 
   
   These files contains the information about all the positive images. Foramt of this file is `full_path+image_Name+Number_Of_PositiveObject_in_Image+x coordinat+ y coordinate+width+Height` This is used with `-info` flag.See the `info.txt` for more clarification.
   
